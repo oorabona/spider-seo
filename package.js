@@ -1,8 +1,8 @@
 Package.describe({
   name: 'oorabona:spider-seo',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'All-in-One crawler friendly and SEO toolkit',
-  git: '',
+  git: 'https://github.com/oorabona/spider-seo.git',
   documentation: 'README.md'
 });
 
